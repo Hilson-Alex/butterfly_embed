@@ -1,3 +1,3 @@
-module butterfly_embed
+module github.com/Hilson-Alex/butterfly_embed
 
-go 1.20
+go 1.24.4
